@@ -55,8 +55,8 @@ header {
   justify-content: center;
   align-items: center;
   position: absolute;
-  top: 0;
-  right: 0;
+  top: -5px;
+  right: -5px;
 }
 
 .cart-ordered-sign p {
